@@ -19,8 +19,7 @@ Il testing, infatti, ricopre un ruolo fondamentale nel processo di rifattorizzaz
 Di seguito le cartelle che compongono la repository sono:
 
 * [1. Simple Refactoring Mehods](/1.%20Simple%20Refactoring%20Methods/), che contiene i metodi di rifattorizzazione più comunemente utilizzati e che sicuramente almeno una volta anche inconsciamente avremmo usato. 
-
-
+* [2. API Refactoring](2.%20API%20Refactoring/), nella quale sono inseriti i più comuni metodi di rifattorizzazioni utilizzati per la programmazione di API. Consiglio molto viviamente di leggere e comprendere gli esempi per chi sviluppa spesso con applicazioni web, e quindi si ritrova spesso a gestire API, e servizi REST.
 
 ### Leggere attentamente !
 Ci tengo però a sottolineare che la repository è semplicemente una rielaborazione personale di quello che troverete nel testo, e quindi non va considerata come un valido sostituto alla teoria.
